@@ -1,0 +1,12 @@
+Helper for SopCast app (www.sopcast.com)
+Save PC resources for currently unwanted broadcasts without disconnecting.
+
+Additional buttons:
+"-" - Collapse application window for compact view;
+"+" - Restore original size;
+"M" - Mute process;
+"U" - Unmute process;
+Lock - Stub for an external player - load broadcast without playing;
+Stream - Open broadcast in your external player. Path to player stored in SopCast.exe.ini (file must be in UTF-16LE without BOM).
+
+Put all files to the application folder.
